@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss-cli": "^11.0.0",
+    "postcss-import": "^16.1.0"
+  },
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-Melchior-o/mywebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o-Melchior-o/mywebsite/issues"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.31",
+    "postcss-cli": "^10.1.0"
+  },
+  "homepage": "https://github.com/o-Melchior-o/mywebsite#readme",
+  "description": ""
+}

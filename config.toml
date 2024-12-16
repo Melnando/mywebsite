@@ -1,0 +1,9 @@
+baseURL = "https://your-website-url/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "TeXify3"
+
+[params]
+  # Custom settings for the TeXify3 theme
+  math = true                # Enable KaTeX for math rendering
+  dateFormat = "2006-01-02"  # Date format for blog posts
