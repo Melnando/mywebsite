@@ -1,10 +1,8 @@
-+++
-date = '2024-12-11T19:40:10+08:00'
-draft = true
-title = 'First Post'
-+++
 ---
 title: "My First Post"
-date: 2024-12-11
+date: 2024-02-20
+draft: false
+tags: ["first", "blog"]
 ---
-Welcome to my first post!
+
+This is my first blog post using Hugo with the texify3 theme!

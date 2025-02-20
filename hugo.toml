@@ -1,4 +1,4 @@
-baseURL = "https://michaelneuper.github.io/hugo-texify3/"
+baseURL = "http://localhost:1313"
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
