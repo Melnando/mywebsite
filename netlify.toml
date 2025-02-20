@@ -2,13 +2,20 @@
 publish = "public"
 command = """\
   npm install && \
-  curl -LJO https://github.com/sass/dart-sass/releases/download/1.63.6/dart-sass-1.63.6-linux-x64.tar.gz && \
-  tar -xf dart-sass-1.63.6-linux-x64.tar.gz && \
-  rm dart-sass-1.63.6-linux-x64.tar.gz && \
+  curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
+  tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
+  rm dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
   export PATH=/opt/build/repo/dart-sass:$PATH && \
-  hugo --gc --minify
+  hugo --gc -contentDir exampleSite/content --themesDir .. --minify
 """
 
-[context.production.environment]
+[build.environment]
 HUGO_VERSION = "0.139.4"
 HUGO_EXTENDED = "true"
+DART_SASS_VERSION = "1.63.6"
+TZ = "America/Los_Angeles"
+
+[[redirects]]
+from = "/*"
+to = "/404.html"
+status = "404"
