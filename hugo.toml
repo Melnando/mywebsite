@@ -16,8 +16,8 @@ tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
-author = "Michael Neuper"
+title="Melchior THIERRY"
+author = "Melchior THIERRY"
 description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
