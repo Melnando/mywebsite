@@ -1,4 +1,4 @@
 [submodule "themes/hugo-texify3"]
 	path = themes/hugo-texify3
-	url = https://github.com/o-Melchior-o/hugo-texify3
+	url = https://github.com/Melnando/hugo-texify3.git
 	branch = master
