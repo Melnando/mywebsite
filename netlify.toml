@@ -1,5 +1,5 @@
 [build]
-publish = "hugo/mywebsite/public"
+publish = "public"
 command = """\
   npm install && \
   curl -LJO https://github.com/sass/dart-sass/releases/download/1.63.6/dart-sass-1.63.6-linux-x64.tar.gz && \
