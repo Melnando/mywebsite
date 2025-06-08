@@ -14,5 +14,7 @@ title: "Home"
 <br/>  
 I’m Melchior Thierry — a cybersecurity engineer in the making, working across systems, networks, embedded devices, and cryptography.  
 <br/>  
-Whether hardening a Linux container, analyzing network flows, or dissecting a post-quantum protocol  
-**my curiosity drives my decisions**.
+Whether hardening a Linux container, analyzing network flows, or dissecting a post-quantum protocol,  
+**My curiosity drives my decisions**.  
+<br/>  
+[📄 Download my resume](/files/Resume_Melchior_THIERRY.pdf) 
