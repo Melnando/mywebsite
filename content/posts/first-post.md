@@ -5,7 +5,7 @@ draft: false
 tags: ["Post Quantum Cryptography", "Hardware Security", "Cybersecurity Research"]
 ---
 
-As we move towards the quantum era, preparing our digital infrastructure for what lies ahead is not just important, it's essential. Over the past year, I've had the opportunity to contribute to this mission through a research project conducted during my academic exchange at National Taipei University, Taiwan. This work, titled *"Architectural Adaptations for Post-Quantum Cryptography: A Comprehensive Review of Performance, Power, and Security Implications"* represents a critical step in aligning future-proof cryptographic theory with real-world implementation.
+As we move towards the quantum era, preparing our digital infrastructure for what lies ahead is not just important, it's essential. Over the past year, I've had the opportunity to contribute to this mission through a research project conducted during my academic exchange at National Taipei University, Taiwan. This work, titled [*"Architectural Adaptations for Post-Quantum Cryptography: A Comprehensive Review of Performance, Power, and Security Implications"*](/files/Architectural_Adaptations_for_PQC.pdf) represents a critical step in aligning future-proof cryptographic theory with real-world implementation.
 
 ## Why Post-Quantum Cryptography Matters
 As quantum computing technology matures, widely used cryptographic protocols such as RSA and ECC face the risk of becoming obsolete. Algorithms like Shor's and Grover's could potentially render these methods vulnerable, posing a serious threat to everything from banking systems to secure messaging apps.
