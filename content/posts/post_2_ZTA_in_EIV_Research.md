@@ -1,5 +1,5 @@
 ---
-title: "Building Trust in V2X Communications: My Journey Developing a Deep Learning-Based Intrusion Detection System"
+title: "Building Trust in V2X Communications: Developing a Deep Learning-Based Intrusion Detection System"
 date: 2025-06-11
 draft: false
 tags: ["Zero Trust Architecture", "Deep Learning IDS", "Cybersecurity Research"]
