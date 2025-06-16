@@ -1,37 +1,33 @@
 ---
-title: "Bienvenue sur mon site !"
+title: "Welcome to my website!"
 date: 2025-06-08
 tags: []
 ---
 
-Je suis Melchior Thierry, étudiant en dernière année à l’ESILV (Paris-La Défense), spécialisé en cybersécurité & objets connectés.
+I’m Melchior Thierry, a final-year student at ESILV (Paris-La Défense), specializing in Cybersecurity, IT & IoT.
 
-Ce site me permet de partager mon parcours académique, mes projets techniques, mes recherches, ainsi que des réflexions personnelles autour de la cybersécurité.
+This website allows me to share my academic background, technical projects, research, and personal thoughts on cybersecurity.
 
 ---
 
-**Pourquoi ce site ?**
+**Why this website?**
 
-Au-delà d’un simple CV, j'avais envie de créer un espace personnel plus libre qu'un LinkedIn pour :
+More than just a résumé, I wanted to create a personal space that’s more flexible than LinkedIn to:
 
-- Détailler mes projets, notamment ceux liés à la recherche ou aux hackathons
-- Partager des articles techniques (résolutions CTF, outils, retours d'expérience…)
-- Centraliser mes liens utiles : CV, Root-Me, publications, etc.
+- Provide in-depth details about my projects, especially those related to research or hackathons  
+- Share technical articles (CTF write-ups, tools, feedback, etc.)  
+- Centralize useful links: résumé, Root-Me profile, publications, and more
 
+**A consciously *low-tech* approach**
 
-**Une démarche voulue *low tech***
+Aligned with my awareness of digital sustainability, I chose to build a lightweight, static, and fast-loading site, with minimal dependencies—designed to be resource-efficient for both visitors and the hosting server.
 
-Dans la continuité de ma sensibilité aux enjeux de sobriété numérique, j’ai souhaité créer un site léger, statique et rapide à charger, avec un minimum de dépendances, afin d'être économe en ressources pour le visiteur comme pour l’hébergeur.
+**What’s next?**
 
+I’ll be publishing:
+- Write-ups of challenges (Root-Me, hackathons, etc.)  
+- Simplified summaries of my research work  
+- Technical analyses (OS hardening, NIDS, cryptography, etc.)
 
-**Et maintenant ?**
-
-Je publierai ici :
-- Des write-ups de challenges (Root-Me, hackathons…)
-- Des résumés vulgarisés de mes travaux de recherche
-- Des analyses techniques (durcissement d’OS, NIDS, crypto, etc.)
-
-Merci pour votre visite !  
-📬 [Contactez-moi](mailto:melchi.thierry@gmail.com) ou [retrouvez-moi sur LinkedIn](https://linkedin.com/in/melchior-thierry)
-
-
+Thanks for visiting!  
+📬 [Contact me](mailto:melchi.thierry@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/melchior-thierry)
