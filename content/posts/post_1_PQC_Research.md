@@ -1,6 +1,6 @@
 ---
 title: "Adapting Digital Architectures for Efficient Post-Quantum Cryptography"
-date: 2024-06-09
+date: 2025-06-09
 draft: false
 tags: ["Post Quantum Cryptography", "Hardware Security", "Cybersecurity Research"]
 ---
