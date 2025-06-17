@@ -17,11 +17,11 @@ Post-Quantum Cryptography (PQC) aims to solve this challenge by developing algor
 ## My Research Goals
 The core objective of this study was to assess how different hardware architectures—such as FPGAs, ASICs, and hybrid systems—can adapt to the specific needs of PQC. We examined three primary aspects:
 
-Performance: How fast can these systems encrypt, decrypt, sign, or verify?
+**Performance:** How fast can these systems encrypt, decrypt, sign, or verify?
 
-Power Efficiency: Are these designs sustainable for low-power devices like IoT sensors?
+**Power Efficiency:** Are these designs sustainable for low-power devices like IoT sensors?
 
-Security: How resilient are they against side-channel attacks and other emerging threats?
+**Security:** How resilient are they against side-channel attacks and other emerging threats?
 
 We drew from real-world implementations and performance metrics to evaluate trade-offs and limitations. A particular focus was given to lattice-based cryptography, one of the most promising families of PQC algorithms.
 
