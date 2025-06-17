@@ -1,12 +1,12 @@
 ---
 title: "Bash - System 1 - Root-me Write-up"
 date: 2025-06-16
-tags: []
+tags: ["Root-me Write-up"]
 ---
 
-This challenge exploits a **`PATH` environment variable manipulation vulnerability** in a SUID binary.
+This challenge exploits a `PATH` environment variable manipulation vulnerability in a SUID binary.
 
-The binary `ch11` is executed with elevated privileges and internally calls `ls` **without an absolute path**. Because of this, we can hijack the command that gets executed by manipulating the `PATH`.
+The binary `ch11` is executed with elevated privileges and internally calls `ls` without an absolute path. Because of this, we can hijack the command that gets executed by manipulating the `PATH`.
 
 
 **Goal**
