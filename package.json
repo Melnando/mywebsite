@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/o-Melchior-o/mywebsite.git"
+    "url": "git+https://github.com/Melanandomywebsite.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/o-Melchior-o/mywebsite/issues"
+    "url": "https://github.com/Melnando/mywebsite/issues"
   },
   "devDependencies": {
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0"
   },
-  "homepage": "https://github.com/o-Melchior-o/mywebsite#readme",
+  "homepage": "https://github.com/Melnando/mywebsite#readme",
   "description": ""
 }
