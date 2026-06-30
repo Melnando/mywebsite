@@ -18,7 +18,7 @@ categories = "categories"
 [params]
 title="Melchior Thierry"
 author = "Melchior THIERRY"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
+description = "Cybersécurité, cloud et curiosité — le portfolio technique de Melchior Thierry : projets, recherche et write-ups."
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
 Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
